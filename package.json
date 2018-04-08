@@ -13,7 +13,7 @@
       "env",
       "stage-2"
     ]
-  },  
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
@@ -24,7 +24,7 @@
     "babel-preset-react": "^6.24.1",
     "babel-preset-stage-2": "^6.24.1",
     "eslint": "^3.19.0",
-    "lodash": "npm:lodash@^4.11.1",
+    "lodash": "^4.11.1",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "serve": "^5.1.4",
